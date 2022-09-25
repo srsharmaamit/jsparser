@@ -1,0 +1,22 @@
+{
+  "name": "customparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example1/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "escodegen": "^2.0.0",
+    "espree": "^9.3.3",
+    "esprima": "^4.0.1",
+    "estraverse": "^5.3.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^18.7.8"
+  }
+}
